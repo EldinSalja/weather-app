@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=berlin&appid=411d8385bbff3ef440f863dbb6c92f9d&units=imperial
